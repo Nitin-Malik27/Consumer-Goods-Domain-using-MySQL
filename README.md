@@ -60,8 +60,8 @@ The dataset contains 9 tables in total, namely:
 - **fact_sales_monthly**: 1,436,906 records | 5 columns
 - # AtliQ Hardware Consumer Goods Sales Analysis
 
-- 
-##Project  Implementation<br>
+ 
+##Project  Implementation <br>
 **part1 -financial analytics of atliq hardware** [link for ppt](https://github.com/Nitin-Malik27/Consumer-Goods-Domain-using-mySQL-by-nitin-/blob/main/part1_of_financial_analysis_of_ATliq_hardware_(PROJECT).pdf) <br>
 **part2- top customers and markets**[link for ppt](https://github.com/Nitin-Malik27/Consumer-Goods-Domain-using-mySQL-by-nitin-/blob/main/part2_of_financial_analysis_of_ATliq_hardware_(PROJECT).pdf)<br>
 **part3- Supply Chain analysis**[link for ppt](https://github.com/Nitin-Malik27/Consumer-Goods-Domain-using-mySQL-by-nitin-/blob/main/part3_Supply_Chain_ANALYTICS%20for%20AtliQ%20Hardwares%20using%20MySQL.pdf)<br>
