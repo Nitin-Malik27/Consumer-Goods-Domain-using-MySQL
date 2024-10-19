@@ -60,11 +60,11 @@ The dataset contains 9 tables in total, namely:
 - **fact_sales_monthly**: 1,436,906 records | 5 columns
 - # AtliQ Hardware Consumer Goods Sales Analysis
 ##Project  presentation 
-**part1 -financial analytics of atliq hardware**(
-**part2- top customers and markets**
-**part3- Supply Chain analysis**
+**part1 -financial analytics of atliq hardware** [link for ppt](
+**part2- top customers and markets**[link for ppt](
+**part3- Supply Chain analysis**[link for ppt](
 
-##RESUME PROJECT CHALLENGE
+#RESUME PROJECT CHALLENGE
 
 This project involves a comprehensive **Ad-Hoc SQL analysis** of AtliQ Hardware's Consumer Goods Sales, Product, and Customer data. The analysis provides valuable insights that will enable AtliQ Hardware to:
 
