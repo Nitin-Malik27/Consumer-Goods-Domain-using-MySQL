@@ -59,7 +59,9 @@ The dataset contains 9 tables in total, namely:
 - **dim_pre_invoice_deductions**: 1,045 records | 3 columns  
 - **fact_sales_monthly**: 1,436,906 records | 5 columns
 - # AtliQ Hardware Consumer Goods Sales Analysis
-##Project  presentation 
+
+- 
+##Project  Implementation<br>
 **part1 -financial analytics of atliq hardware** [link for ppt](https://github.com/Nitin-Malik27/Consumer-Goods-Domain-using-mySQL-by-nitin-/blob/main/part1_of_financial_analysis_of_ATliq_hardware_(PROJECT).pdf) <br>
 **part2- top customers and markets**[link for ppt](https://github.com/Nitin-Malik27/Consumer-Goods-Domain-using-mySQL-by-nitin-/blob/main/part2_of_financial_analysis_of_ATliq_hardware_(PROJECT).pdf)<br>
 **part3- Supply Chain analysis**[link for ppt](https://github.com/Nitin-Malik27/Consumer-Goods-Domain-using-mySQL-by-nitin-/blob/main/part3_Supply_Chain_ANALYTICS%20for%20AtliQ%20Hardwares%20using%20MySQL.pdf)<br>
@@ -68,7 +70,7 @@ The dataset contains 9 tables in total, namely:
 
 This project involves a comprehensive **Ad-Hoc SQL analysis** of AtliQ Hardware's Consumer Goods Sales, Product, and Customer data. The analysis provides valuable insights that will enable AtliQ Hardware to:<br>
 The goal is to write effective SQL queries to answer 10 ad-hoc business requests from the Data Analytics Director, aiming to secure valuable insights into the consumer goods sector. By fulfilling these different ad-hoc requests, I delivered specific answers to important business questions enabling the company to understand its product portfolio, sales trends across diverse customer segments, and a monthly overview of products sold.<br>
-#[link for ppt](
+#[link for ppt](https://github.com/Nitin-Malik27/Consumer-Goods-Domain-using-mySQL-by-nitin-/blob/main/ppt_consumer_ad-hoc_requests.pdf)
 
 - Make informed decisions  
 - Optimize operations  
