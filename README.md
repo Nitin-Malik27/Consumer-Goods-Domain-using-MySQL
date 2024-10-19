@@ -19,7 +19,7 @@
 
 Business growth analysis is essential for any company that wants to remain competitive and successful in the long term.
 
-The goal is to write effective SQL queries to answer 10 ad-hoc business requests from the Data Analytics Director, aiming to secure valuable insights into the consumer goods sector. By fulfilling these different ad-hoc requests, I delivered specific answers to important business questions enabling the company to understand its product portfolio, sales trends across diverse customer segments, and a monthly overview of products sold.
+The goal is to write queries for doing Financial Analysis and supply chain analysis of AtliQ hardwares and supply insights for making informed decisions
 
 ---
 
