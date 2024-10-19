@@ -75,7 +75,7 @@ The goal is to write effective SQL queries to answer 10 ad-hoc business requests
 - Make informed decisions  
 - Optimize operations  
 - Drive growth in the competitive computer hardware market
-- 
+
 
 ## Recommendations for AtliQ
 
