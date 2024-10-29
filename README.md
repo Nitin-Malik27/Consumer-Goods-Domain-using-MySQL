@@ -1,4 +1,4 @@
-# Consumer Goods Domain using-mySQL
+# Consumer Goods Domain using-MySQL
 
 # Introduction to AtliQ Hardware:
 
